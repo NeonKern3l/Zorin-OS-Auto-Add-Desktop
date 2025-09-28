@@ -11,26 +11,27 @@ Simple helper to add GUI app shortcuts to your Desktop on Zorin OS (GNOME). Incl
    
 3. Clone my repo
 
-   -> ``` git clone https://github.com/<your-username>/zorin-desktop-shortcuts.git
-   cd zorin-desktop-shortcuts ```
+   -> ``` git clone https://github.com/NeonKern3l/Zorin-OS-Auto-Add-Desktop.git ```
+
+   -> ```cd zorin-desktop-shortcuts ```
    
-4. Run installation
+5. Run installation
    
    -> ``` ./install.sh ```
    
-5. Restart GNOME shell:
+6. Restart GNOME shell:
    
    If you are on X11: press Alt + F2, type r then Enter.
    If you are on Wayland (Zorin default): log out and log back in.
    Open the Extensions app (search “Extensions” in menu) and enable “Desktop Icons NG (DING)”.
    
-6. Give permission
+7. Give permission
    
    -> ``` chmod +x install.sh ```
    ``` ./install.sh ```
    
-7. Then run
+8. Then run
     
     -> ``` add_shortcut.sh``` 
     
-8. When success, press the application and find allow launching.
+9. When success, press the application and find allow launching.
