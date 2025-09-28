@@ -1,11 +1,12 @@
 # Zorin-OS-Auto-Add-Desktop
 Simple helper to add GUI app shortcuts to your Desktop on Zorin OS (GNOME). Includes short installer and an interactive script for beginners.
 
-zorin-desktop-shortcuts/
+📂 Repo Structure
+zorin-os-auto-add-desktop/
 │
 ├── install.sh
 ├── uninstall.sh
-├── add_app_to_desktop.sh
+├── add_shortcut.sh
 ├── README.md
 └── LICENSE
 
